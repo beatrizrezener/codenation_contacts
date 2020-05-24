@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="2.149">
+  <testsuite name="Contacts APP" errors="0" failures="0" skipped="0" timestamp="2020-05-24T05:02:51" time="1.235" tests="5">
+    <testcase classname="Contacts APP Should render APP" name="Contacts APP Should render APP" time="0.05">
+    </testcase>
+    <testcase classname="Contacts APP Should render Contact component" name="Contacts APP Should render Contact component" time="0.028">
+    </testcase>
+    <testcase classname="Contacts APP Should render Contacts component" name="Contacts APP Should render Contacts component" time="0.004">
+    </testcase>
+    <testcase classname="Contacts APP Should render Filters component" name="Contacts APP Should render Filters component" time="0.005">
+    </testcase>
+    <testcase classname="Contacts APP Should render Topbar component" name="Contacts APP Should render Topbar component" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>
