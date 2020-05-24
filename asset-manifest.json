@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codenation_contacts/static/css/main.83b78fd8.chunk.css",
+    "main.js": "/codenation_contacts/static/js/main.1abf4708.chunk.js",
+    "main.js.map": "/codenation_contacts/static/js/main.1abf4708.chunk.js.map",
+    "runtime-main.js": "/codenation_contacts/static/js/runtime-main.d1e99871.js",
+    "runtime-main.js.map": "/codenation_contacts/static/js/runtime-main.d1e99871.js.map",
+    "static/js/2.0f28186c.chunk.js": "/codenation_contacts/static/js/2.0f28186c.chunk.js",
+    "static/js/2.0f28186c.chunk.js.map": "/codenation_contacts/static/js/2.0f28186c.chunk.js.map",
+    "index.html": "/codenation_contacts/index.html",
+    "precache-manifest.561af41fe4347d3ec88c439845c2bed6.js": "/codenation_contacts/precache-manifest.561af41fe4347d3ec88c439845c2bed6.js",
+    "service-worker.js": "/codenation_contacts/service-worker.js",
+    "static/css/main.83b78fd8.chunk.css.map": "/codenation_contacts/static/css/main.83b78fd8.chunk.css.map",
+    "static/js/2.0f28186c.chunk.js.LICENSE.txt": "/codenation_contacts/static/js/2.0f28186c.chunk.js.LICENSE.txt",
+    "static/media/logo.82a7c062.svg": "/codenation_contacts/static/media/logo.82a7c062.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e99871.js",
+    "static/js/2.0f28186c.chunk.js",
+    "static/css/main.83b78fd8.chunk.css",
+    "static/js/main.1abf4708.chunk.js"
+  ]
+}
