@@ -1,6 +1,7 @@
 {
   "name": "contacts_app",
   "version": "1.0.0",
+  "homepage": "http://beatrizrezener.github.io/codenation_contacts",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -16,7 +17,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "submit": "react-scripts test src/__tests__/submit.test.js --reporters=default --reporters=jest-junit"
+    "submit": "react-scripts test src/__tests__/submit.test.js --reporters=default --reporters=jest-junit",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,6 +37,7 @@
     ]
   },
   "devDependencies": {
-    "dayjs": "^1.8.23"
+    "dayjs": "^1.8.23",
+    "gh-pages": "^2.2.0"
   }
 }
